@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Kudwewix
+- 👋 Hi, I’m Mateusz
 - 👀 I’m interested in 3D Printing and IT
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate? It depends :-)
-- 📫 How to reach me? Use YouTube!
+- 📫 How to reach me? Use my website!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOOOOVE 3D PRINTING! ❤️❤️❤️
 
